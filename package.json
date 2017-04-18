@@ -1,0 +1,22 @@
+{
+  "name": "react_course",
+  "version": "1.0.0",
+  "description": "simple react app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomasfaustin/react.git"
+  },
+  "author": "Thomas Faustin Huisking",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomasfaustin/react/issues"
+  },
+  "homepage": "https://github.com/tomasfaustin/react#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
