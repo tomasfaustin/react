@@ -77,7 +77,7 @@ var Greeter = React.createClass({
   }
 });
 
-var firstName = 'Thomas Bo-fucking-Bombous';
+var firstName = 'Thomas';
 
 ReactDOM.render(
   <Greeter name={firstName}/>,
