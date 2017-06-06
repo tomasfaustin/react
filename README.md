@@ -1,1 +1,1 @@
-This repository was created to update progress on the Udemy React course by Andrew Mead.
+This repository was created to save files built from the Udemy React course taught by Andrew Mead.
