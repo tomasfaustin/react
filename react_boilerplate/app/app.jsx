@@ -2,12 +2,12 @@ var React = require('react');
 var ReactDOM = require('react-dom');
 
 var objOne = {
-  name: 'Andrew',
-  location: 'Philadelphia'
+  name: 'Thomas Bo Bahmmus',
+  location: 'Venice Beach'
 };
 
 var objTwo = {
-  age: 25,
+  age: 39,
   ...objOne
 };
 

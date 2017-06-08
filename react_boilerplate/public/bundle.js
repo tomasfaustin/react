@@ -52,12 +52,12 @@
 	var ReactDOM = __webpack_require__(158);
 
 	var objOne = {
-	  name: 'Andrew',
-	  location: 'Philadelphia'
+	  name: 'Thomas Bo Bahmmus',
+	  location: 'Venice Beach'
 	};
 
 	var objTwo = _extends({
-	  age: 25
+	  age: 39
 	}, objOne);
 
 	console.log(objTwo);
