@@ -8,7 +8,4 @@ var Weather = React.createClass({
   }
 });
 
-
-
-
 module.exports = Weather;
