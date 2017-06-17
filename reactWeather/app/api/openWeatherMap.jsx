@@ -15,8 +15,8 @@ module.exports = {
       } else {
         return res.data.main.temp;
       }
-    }, function (res) {
-      throw new Error(res.data.message);
+    }, function (err) {
+      throw new Error("Come on, now. That's not a city or you suck at spelling.");
     });
   }
 }
