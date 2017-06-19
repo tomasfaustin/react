@@ -2,9 +2,6 @@ var React = require('react');
 var ReactDOM = require('react-dom');
 var {Route, Router, IndexRoute, hashHistory} = require('react-router');
 var Main = require('Main');
-var Timer = require('Timer');
-var Clock = require('Clock');
-var Controls = require('Controls');
 
 // Load foundation
 
