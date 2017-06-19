@@ -1,4 +1,8 @@
 var React = require('react');
+var Nav = require('Nav');
+var Clock = require('Clock');
+var Controls = require('Controls');
+var Timer = require('Timer');
 
 var Main = (props) => {
   return (
