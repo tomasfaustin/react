@@ -1,6 +1,6 @@
 var React = require('react');
 var Nav = require('Nav');
-var Main = require('Timer');
+var Timer = require('Timer');
 
 var Main = (props) => {
   return (

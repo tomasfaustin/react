@@ -4,6 +4,7 @@ var {Route, Router, IndexRoute, hashHistory} = require('react-router');
 var Main = require('Main');
 var Timer = require('Timer');
 var Countdown = require('Countdown');
+var Clock = require('Clock');
 
 // Load foundation
 
